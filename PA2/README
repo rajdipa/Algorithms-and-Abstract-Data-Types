@@ -1,0 +1,8 @@
+-----LIST.C-----
+Creating a doubly linked list creating a List ADT.
+
+-----LIST.H-----
+Contains the prototypes for List functions
+-----LEX.C-----
+Client module which sorts any given input file
+and outpus the sorted input into a file.
