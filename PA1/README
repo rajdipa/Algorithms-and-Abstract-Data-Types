@@ -1,0 +1,14 @@
+README FILE
+
+-----LIST.JAVA-----
+Creating a doubly linked list creating a List ADT.
+
+-----LISTCLIENT.JAVA-----
+Provided already, test the List ADT.
+
+-----LEX.JAVA-----
+Client module which sorts any given input file
+and outpus the sorted input into a file.
+
+-----MAKEFILE-----
+Provided already, used to compile the program into a JAR
