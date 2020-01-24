@@ -1,0 +1,17 @@
+GraphTest.c
+Client that tests Graph.C
+
+FindComponents.c
+Takes in two arguments, tests the Graph and List ADT.
+
+Graph.c
+Implements the Graph ADT, specifially does DFS on a gived grpah.
+
+Graph.h
+Header for Graph.c, contains all the prototypes and macros.
+
+List.c
+Doubly Linked list, ADT
+
+List.h
+Header for List.c, contains all the prototypes.
